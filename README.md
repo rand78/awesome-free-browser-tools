@@ -15,6 +15,7 @@
 ---
 
 ## 🔗 [Nuqrai Tools](https://www.nuqrai.com) — All-in-one Free Toolkit
+- [FileOnTap](https://fileontap.com/) - Browser-local File Converter for images and PDFs; no upload, signup, or download required.
 
 | Tool | Description | Link |
 |------|-------------|------|
